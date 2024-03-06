@@ -1,4 +1,4 @@
-import type { Workout } from "../types/types";
+import type { Workout } from "../types";
 import { useWorkoutsContext } from "../hooks/useWorkoutsContext";
 import { formatDistanceToNow } from "date-fns";
 

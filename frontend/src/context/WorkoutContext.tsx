@@ -1,5 +1,5 @@
 import { createContext, useReducer } from "react";
-import type { Workout } from "../types/types";
+import type { Workout } from "../types";
 
 type State = {
   workouts: Workout[];

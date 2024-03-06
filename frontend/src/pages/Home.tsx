@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { WorkoutDetails } from "../components/WorkoutDetails";
-import type { Workout } from "../types/types";
+import type { Workout } from "../types";
 import { WorkoutForm } from "../components/WorkoutForm";
 import { useWorkoutsContext } from "../hooks/useWorkoutsContext";
 
